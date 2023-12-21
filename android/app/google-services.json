@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27144297356",
+    "project_id": "my-awesome-messenger-app-4742b",
+    "storage_bucket": "my-awesome-messenger-app-4742b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27144297356:android:dfad8b144bec2fa46d94a9",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWudy7jelV7FqK-6r5ScydjC4I0wadFRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27144297356:android:028a3e904fb79fcb6d94a9",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWudy7jelV7FqK-6r5ScydjC4I0wadFRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
